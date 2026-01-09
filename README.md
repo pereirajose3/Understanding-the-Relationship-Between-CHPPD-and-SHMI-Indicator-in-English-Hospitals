@@ -28,19 +28,5 @@ If you want full reproducibility, you can either:
 1) download the datasets manually (recommended for transparency), or  
 2) add a data-download script if your repo supports it.
 
-## Repository structure (example)
-- `data_raw/` — original CSVs downloaded from public sources (optional / not committed)
-- `data_processed/` — cleaned, consolidated outputs (generated)
-- `src/` — scripts (ETL, merge, analysis)
-- `notebooks/` — exploratory notebooks (optional)
-- `outputs/figures/` — generated figures
-- `outputs/tables/` — generated summary tables
 
-## Requirements
-- Python 3.10+
-- Key libraries used: `numpy`, `pandas`, `scipy`, `matplotlib`
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
 
