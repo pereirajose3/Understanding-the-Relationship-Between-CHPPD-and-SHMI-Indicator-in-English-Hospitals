@@ -16,8 +16,6 @@ The code in this repository reproduces the key steps described in the manuscript
 - **Cross-correlation analysis** (lead–lag relationships) between CHPPD and SHMI at the trust level  
 - Stratified summaries/plots by SHMI cohorts (above / within / below control limits)
 
-> Note: SHMI is published as a 12-month rolling value; the analysis therefore focuses on **negative lags (0 to −18 months)** to interpret staffing leading mortality, consistent with the paper.
-
 ## Data sources
 This study uses **publicly available** datasets:
 - CHPPD (Care Hours Per Patient Day) – NHS England guidance/datasets  
