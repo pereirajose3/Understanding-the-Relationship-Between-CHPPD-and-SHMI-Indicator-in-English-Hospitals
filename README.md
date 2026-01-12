@@ -22,9 +22,7 @@ This study uses **publicly available** datasets:
 - SHMI (Summary Hospital-level Mortality Indicator) – NHS England / NHS Digital publication
 
 This repository does **not** include raw data files by default (depending on your choice).  
-If you want full reproducibility, you can either:
-1) download the datasets manually (recommended for transparency), or  
-2) add a data-download script if your repo supports it.
+If you want full reproducibility, you can download the datasets manually (recommended for transparency)
 
 
 
