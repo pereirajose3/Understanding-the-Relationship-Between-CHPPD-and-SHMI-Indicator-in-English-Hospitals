@@ -5,7 +5,7 @@ This repository contains the analysis code used for the paper:
 **Pereira J, Eusébio C, Sherlaw-Johnson C, Black S, Punshon G, Hardy S, Leary A (2025)**  
 *Understanding the relationship between care hours per patient day and summary hospital-level mortality indicator in English hospitals: A time series approach*  
 Journal of Patient Safety and Risk Management.  
-Paper link: https://journals.sagepub.com/doi/full/10.1177/25160435251410480
+Paper link: https://journals.sagepub.com/doi/full/10.1177/25160435251410480 
 
 ## Overview 
 The code in this repository reproduces the key steps described in the manuscript, including:
