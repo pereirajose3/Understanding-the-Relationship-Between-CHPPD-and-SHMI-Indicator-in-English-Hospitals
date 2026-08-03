@@ -12,7 +12,7 @@ The code in this repository reproduces the key steps described in the manuscript
 
 - Extracting, cleaning, and consolidating **monthly CHPPD** files (trust level) from NHS England / NHS Digital outputs  
 - Merging CHPPD with **SHMI (12-month rolling)** data by trust code and date  
-- Feature engineering (e.g., mean-centering time series)  
+- Feature engineering (e.g., mean-centering time series)   
 - **Cross-correlation analysis** (lead–lag relationships) between CHPPD and SHMI at the trust level  
 - Stratified summaries/plots by SHMI cohorts (above / within / below control limits)
 
