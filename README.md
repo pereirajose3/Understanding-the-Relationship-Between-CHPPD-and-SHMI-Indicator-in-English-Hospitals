@@ -1,6 +1,6 @@
 # Understanding-the-Relationship-Between-CHPPD-and-SHMI-Indicator-in-English-Hospitals
 
-This repository contains the analysis code used for the paper:
+This repository contains the analysis code used for the paper: 
 
 **Pereira J, Eusébio C, Sherlaw-Johnson C, Black S, Punshon G, Hardy S, Leary A (2025)**  
 *Understanding the relationship between care hours per patient day and summary hospital-level mortality indicator in English hospitals: A time series approach*  
